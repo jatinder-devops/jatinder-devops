@@ -149,18 +149,43 @@ I believe in building strong fundamentals, learning through practical implementa
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <div align="center">
 
+### Let's Connect & Build Something Together! 🚀
+
+<p>
+I'm always interested in connecting with developers, cloud enthusiasts, and DevOps professionals.
+</p>
+
 <a href="https://github.com/jatinder-devops">
-<img src="https://img.shields.io/badge/GitHub-jatinder--devops-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/jatinder-devops">
+  <img src="https://img.shields.io/badge/Explore-My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jatinder-devops&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" />
+**💬 Open to learning, collaboration, and sharing knowledge.**
 
-<br/><br/>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=jatinder-devops&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn • Build • Automate • Share
+
+**Thanks for stopping by! ⭐**
+
+</div>
 ### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
