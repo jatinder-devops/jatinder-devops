@@ -146,29 +146,36 @@ I believe in building strong fundamentals, learning through practical implementa
 </div>
 
 ---
-
-## 🤝 Connect With Me
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-### Let's Connect & Build Something Together! 🚀
+### Let's Connect & Grow Together! 🚀
 
-<p>
-I'm always interested in connecting with developers, cloud enthusiasts, and DevOps professionals.
-</p>
+I'm always happy to connect with developers, cloud enthusiasts, and DevOps professionals.
+
+<br/>
 
 <a href="https://github.com/jatinder-devops">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/jatinder-devops">
-  <img src="https://img.shields.io/badge/Explore-My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/jatinderdevops/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
+**💬 Open to networking, collaboration, and knowledge sharing.**
+
+<img src="https://komarev.com/ghpvc/?username=jatinder-devops&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+### 💡 Learn • Build • Automate • Share
+
+⭐ Thanks for visiting my profile!
+
+</div>
 **💬 Open to learning, collaboration, and sharing knowledge.**
 
 <br/>
