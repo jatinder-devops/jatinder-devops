@@ -173,22 +173,7 @@ I'm always happy to connect with developers, cloud enthusiasts, and DevOps profe
 
 ### 💡 Learn • Build • Automate • Share
 
-⭐ Thanks for visiting my profile!
 
-</div>
-**💬 Open to learning, collaboration, and sharing knowledge.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=jatinder-devops&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Learn • Build • Automate • Share
 
 **Thanks for stopping by! ⭐**
 
