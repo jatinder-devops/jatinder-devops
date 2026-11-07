@@ -124,9 +124,10 @@ I use GitHub to document my learning journey, organize technical knowledge, and 
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=jatinder-devops&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     alt="GitHub Contribution Streak"
     width="400"
   />
